@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mourya Ravi Kumar</h1>
 
 <h3 align="center">
-🐍 Python Backend Developer | 🤖 AI Enthusiast | ☁️ AWS Certified
+Backend Developer | 🤖 AI Enthusiast | ☁️ AWS Certified
 </h3>
 
 <p align="center">
