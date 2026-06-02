@@ -1,144 +1,203 @@
 <h1 align="center">Hi 👋, I'm Mourya Ravi Kumar</h1>
 
 <h3 align="center">
-Software Engineer | Full Stack Developer | Problem Solver
+🐍 Python Backend Developer | 🤖 AI Enthusiast | ☁️ AWS Certified
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, solving Data Structures & Algorithms problems, and continuously learning modern technologies.
+Building scalable backend systems with Python and FastAPI while exploring AI, LLMs, and intelligent applications.
 </p>
 
-<hr>
+<br>
 
 <h2>🚀 About Me</h2>
 
 <ul>
   <li>🎓 Computer Science Engineering Student</li>
-  <li>💻 Currently learning MERN Stack Development</li>
-  <li>🧠 Solving DSA problems regularly</li>
+  <li>🐍 Backend Developer specializing in Python and FastAPI</li>
+  <li>🤖 Currently learning AI, LLMs, Prompt Engineering, and Agentic Systems</li>
   <li>☁️ AWS Certified Cloud Practitioner</li>
-  <li>🌱 Exploring Backend Engineering & System Design</li>
-  <li>🎯 Goal: Secure a Software Development Engineer (SDE) role</li>
+  <li>📚 Strong foundation in Data Structures & Algorithms</li>
+  <li>🔧 Experienced in REST APIs, Authentication, and SaaS Architectures</li>
+  <li>🎯 Aspiring Backend & AI Engineer</li>
 </ul>
 
-<hr>
+<br>
 
 <h2>🛠️ Tech Stack</h2>
 
-<h3>Languages</h3>
+<h3>Programming Languages</h3>
 
 <p>
-  Java • JavaScript • Python • C • HTML • CSS
+Python • JavaScript • Java • SQL
 </p>
 
-<h3>Frontend</h3>
+<h3>Backend Development</h3>
 
 <p>
-  React.js • Tailwind CSS • Bootstrap • Responsive Design
+FastAPI • Node.js • Express.js • REST APIs • JWT Authentication • MVC Architecture
 </p>
 
-<h3>Backend</h3>
+<h3>AI & LLM</h3>
 
 <p>
-  Node.js • Express.js • REST APIs
+Ollama • Prompt Engineering • AI Application Development • Local LLM Deployment
 </p>
 
-<h3>Database</h3>
+<h3>Databases</h3>
 
 <p>
-  MongoDB • MySQL
+MongoDB • PostgreSQL • MySQL
 </p>
 
-<h3>Tools & Platforms</h3>
+<h3>Python Libraries</h3>
 
 <p>
-  Git • GitHub • Postman • VS Code • AWS
+NumPy • Pandas
 </p>
 
-<hr>
+<h3>Cloud & Deployment</h3>
 
-<h2>📌 Featured Projects</h2>
+<p>
+AWS • Render • Git • GitHub • Postman
+</p>
+
+<br>
+
+<h2>💼 Experience</h2>
+
+<h3>Backend Developer Intern | Webortex</h3>
+
+<ul>
+  <li>Designed scalable RESTful APIs using Node.js, Express.js, and MongoDB.</li>
+  <li>Optimized database queries and indexing strategies to improve performance.</li>
+  <li>Participated in code reviews and resolved backend issues to improve API stability.</li>
+</ul>
+
+<br>
+
+<h2>🚀 Featured Projects</h2>
 
 <table>
 <tr>
+
 <td width="50%">
 
-<h3>🤖 AI Powered DSA Hint Engine</h3>
+<h3>🤖 AI-Powered DSA Hint Engine</h3>
 
 <ul>
-<li>AI-generated hints instead of direct solutions.</li>
-<li>Multiple hint levels: Slight, Approach, Pseudocode.</li>
-<li>Debug Session support.</li>
-<li>Built using FastAPI, React, Ollama and LLMs.</li>
+<li>Built using Python, FastAPI, Ollama, and Prompt Engineering.</li>
+<li>Generates multiple levels of adaptive hints instead of direct solutions.</li>
+<li>Includes algorithm guidance, optimization hints, and pseudocode generation.</li>
+<li>Runs completely offline using local LLMs.</li>
 </ul>
 
 </td>
 
 <td width="50%">
 
-<h3>📹 MeetSync</h3>
+<h3>📚 Library Management SaaS</h3>
 
 <ul>
-<li>Video conferencing platform.</li>
-<li>Real-time meetings and collaboration.</li>
-<li>Authentication and meeting management.</li>
-<li>Modern responsive UI.</li>
+<li>Multi-tenant SaaS backend architecture.</li>
+<li>Tenant isolation and Role-Based Access Control.</li>
+<li>JWT Authentication and secure authorization.</li>
+<li>51+ RESTful API endpoints.</li>
 </ul>
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>🏡 Wanderlust</h3>
+
+<ul>
+<li>Travel accommodation platform.</li>
+<li>Node.js, Express.js, MongoDB, Passport.js.</li>
+<li>Cloudinary and Mapbox integration.</li>
+<li>Deployed on Render.</li>
+</ul>
+
+</td>
+
+<td width="50%">
+
+<h3>🧠 Currently Building</h3>
+
+<ul>
+<li>AI-powered applications.</li>
+<li>FastAPI backend services.</li>
+<li>Scalable REST APIs.</li>
+<li>Learning Agentic AI workflows.</li>
+</ul>
+
+</td>
+
 </tr>
 </table>
 
-<hr>
+<br>
 
 <h2>🏆 Certifications</h2>
 
 <ul>
-<li>AWS Certified Cloud Practitioner</li>
-<li>Full Stack Web Development</li>
-<li>Data Structures & Algorithms</li>
+  <li>☁️ AWS Certified Cloud Practitioner (CLF-C02)</li>
 </ul>
 
-<hr>
+<br>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📈 Coding Profiles</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MouryaRaviKumar&show_icons=true" />
-</p>
+<ul>
+  <li>💻 Solved 300+ DSA Problems</li>
+  <li>🔥 Active LeetCode Learner</li>
+  <li>📚 Practicing Data Structures & Algorithms using Java</li>
+</ul>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MouryaRaviKumar" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouryaRaviKumar&layout=compact" />
-</p>
-
-<hr>
+<br>
 
 <h2>🎯 Current Focus</h2>
 
 <ul>
-<li>Advanced Data Structures & Algorithms</li>
-<li>Backend Development with Node.js</li>
-<li>System Design Fundamentals</li>
-<li>AWS Cloud Technologies</li>
-<li>Building Production-Ready Projects</li>
+  <li>🤖 AI Engineering & LLM Applications</li>
+  <li>🐍 Advanced Python Development</li>
+  <li>⚡ Production-Ready FastAPI Services</li>
+  <li>☁️ AWS Cloud Technologies</li>
+  <li>🏗️ System Design Fundamentals</li>
 </ul>
 
-<hr>
+<br>
 
-<h2>📫 Connect With Me</h2>
-
-<p>
-<a href="https://github.com/MouryaRaviKumar">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
-</p>
-
-<hr>
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-⭐ Turning ideas into scalable software solutions.
+  <img src="https://github-readme-stats.vercel.app/api?username=MouryaRaviKumar&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouryaRaviKumar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouryaRaviKumar&layout=compact&theme=tokyonight" />
+</p>
+
+<br>
+
+<h2>🌐 Connect With Me</h2>
+
+<p>
+<a href="https://github.com/MouryaRaviKumar">GitHub</a> |
+<a href="https://linkedin.com/in/mourya-ravikumar">LinkedIn</a> |
+<a href="mailto:mourya7537@gmail.com">Email</a>
+</p>
+
+<br>
+
+<h3 align="center">
+🚀 Building Backends Today, Exploring AI for Tomorrow.
+</h3>
