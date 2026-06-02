@@ -172,22 +172,6 @@ AWS • Render • Git • GitHub • Postman
 
 <br>
 
-<h2>📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouryaRaviKumar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouryaRaviKumar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouryaRaviKumar&layout=compact&theme=tokyonight" />
-</p>
-
-<br>
-
 <h2>🌐 Connect With Me</h2>
 
 <p>
