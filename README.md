@@ -14,7 +14,7 @@ Building scalable backend systems with Python and FastAPI while exploring AI, LL
 
 <ul>
   <li>🎓 Computer Science Engineering Graduate</li>
-  <li>🐍 Backend Developer specializing in Python and FastAPI</li>
+  <li>🐍 Backend Developer  in Python and FastAPI</li>
   <li>🤖 Currently learning AI, LLMs, Prompt Engineering, and Agentic Systems</li>
   <li>☁️ AWS Certified Cloud Practitioner</li>
   <li>📚 Strong foundation in Data Structures & Algorithms</li>
